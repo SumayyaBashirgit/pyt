@@ -1,4 +1,4 @@
-server=app.server
+
 # (1) Import the required libraries
 import streamlit as st
 import plotly.express as px
